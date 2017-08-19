@@ -2,7 +2,7 @@
 "items":
 [{
 "name":"5s",
-"color":"#000000",
+"color":"#757575",
 "price":10700,
 "gb":16,
 "neighbourhood":1,
@@ -39,5 +39,25 @@
 "des":"test des",
 "ver":false,
 "photos":["https://media2.24aul.ru/imgs/140x140/5911d4df73fce80f546317b5/"]
+},
+{
+"name":"5s",
+"color":"#757575",
+"price":4000,
+"gb":16,
+"neighbourhood":1,
+"des":"test des",
+"ver":false,
+"photos":["https://media2.24aul.ru/imgs/140x140/596e06c523bbeb7408e99046/"]
+},
+{
+"name":"SE",
+"color":"#757575",
+"price":21500,
+"gb":64,
+"neighbourhood":1,
+"des":"test des",
+"ver":false,
+"photos":["https://media2.24aul.ru/imgs/140x140/596e06c523bbeb7408e99046/"]
 },
 ]}
