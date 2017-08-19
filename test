@@ -1,0 +1,32 @@
+{"count":3,
+"items":[
+{
+"name":"5s",
+"color":"#000000",
+"price":9500,
+"gb":16,
+"neighbourhood":1,
+"des":"test des",
+"ver":false,
+"photos":["https://media2.24aul.ru/imgs/140x140/590828d4231ede6caca86274/"]
+},
+{
+"name":"6",
+"color":"#000000",
+"price":13500,
+"gb":64,
+"neighbourhood":1,
+"des":"test des",
+"ver":false,
+"photos":["https://media2.24aul.ru/imgs/140x140/597c8699231ede24f4bccafe/"]
+},
+{
+"name":"5s",
+"color":"#ffffff",
+"price":9500,
+"gb":16,
+"neighbourhood":1,
+"des":"test des",
+"ver":false,
+"photos":["https://media2.24aul.ru/imgs/59982b5673fce833d44d984e/iphone-5s-1-10124356.jpg"]
+}]}
